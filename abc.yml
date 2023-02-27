@@ -2,4 +2,4 @@
  - hosts: localhost
    tasks:
      - name: create new container
-       shell: docker container run -itd -p 80:80 shubham1204pandey/final-project
+       shell: docker container run -itd -p 80:80 shubham1204pandey/project1
